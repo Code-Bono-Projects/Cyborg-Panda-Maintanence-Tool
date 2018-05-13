@@ -6,3 +6,6 @@ Also testing...
 
 Testing push event routing and model
   In particular the description field (should show the branch)
+  
+Testing the size field (number of commits pushed)
+
